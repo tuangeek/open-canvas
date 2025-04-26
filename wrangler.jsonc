@@ -7,6 +7,6 @@
     ],
     "pages_build_output_dir": ".vercel/output/static",
     "vars": {
-      "NODE_VERSION": "20.16.0"
+      "NODE_VERSION": "20.19.1"
     }
   }
