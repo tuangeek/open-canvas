@@ -16,6 +16,7 @@
     "preview": "npm run pages:build && wrangler pages dev",
     "deploy": "npm run pages:build && wrangler pages deploy"
   },
+  "packageManager": "yarn@1.22.22",
   "devDependencies": {
     "turbo": "latest",
     "tsx": "^4.19.1",
