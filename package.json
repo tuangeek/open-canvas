@@ -29,7 +29,8 @@
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-no-instanceof": "^1.0.1",
     "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^3.3.3"
+    "prettier": "^3.3.3",
+    "@cloudflare/next-on-pages": "^1.13.12"
   },
   "resolutions": {
     "@langchain/core": "^0.3.38"
